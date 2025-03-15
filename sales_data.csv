@@ -1,0 +1,1001 @@
+Date,Nom_Client,Produit,Quantité,Prix_Unitaire,Total,Mode_de_Paiement,Adresse_Livraison
+2025-01-03,Emma Smith,,2.0,-7.92,-15.84,Espèces,Toulouse~France
+2025-01-22,Emma Smith,Table,7.0,69.84,488.88,Espèces,"Nice, FR"
+2025-01-26,Emma Smith,Bureau,0.0,213.14,0.0,Espèces,Toulouse~France
+2025-01-07,Frank Ocean,Chaise,6.0,210.97,1370.03,Espèces,"Bordeaux, France"
+2025-01-18,Henry,Chaise,0.0,21.02,0.0,PayPal,"Lille, France"
+2025-01-01,Alice Martin,,9.0,-36.83,-331.47,Espèces,"Paris, France"
+2025-01-13,David Pierre,,5.0,144.27,721.35,,"Bordeaux, France"
+2025-01-01,Bob Dupont,Bureau,4.0,21.56,86.24,Carte de crédit,Marseille
+2025-01-29,Emma Smith,Table,10.0,234.48,2344.8,,"Bordeaux, France"
+2025-01-31,Charlie,,3.0,115.98,347.94,PayPal,"Lille, France"
+2025-01-30,George & Co.,Table,3.0,158.67,508.66,,"Bordeaux, France"
+2025-01-17,Emma Smith,Chaise,1.0,266.17,266.17,Carte de crédit,"Bordeaux, France"
+2025-01-20,David Pierre,Chaise,10.0,-16.85,-168.5,PayPal,"Paris, France"
+2025-01-25,Henry,Table,4.0,198.43,793.72,Espèces,"Bordeaux, France"
+2025-01-07,Charlie,,2.0,83.64,167.28,Espèces,
+2025-01-19,Frank Ocean,Table,8.0,89.74,717.92,Espèces,"Paris, France"
+2025-01-12,George & Co.,Bureau,6.0,268.44,1610.64,,Marseille
+2025-01-18,Henry,Bureau,4.0,280.12,1120.48,PayPal,"Lyon, France"
+2025-01-11,Bob Dupont,Chaise,7.0,223.63,1565.41,,"Nice, FR"
+2025-01-18,Alice Martin,,8.0,91.67,733.36,PayPal,"Lyon, France"
+2025-01-01,Frank Ocean,Bureau,9.0,263.21,2368.89,,"Lille, France"
+2025-01-28,Charlie,Table,7.0,57.32,401.24,,"Nice, FR"
+2025-01-26,Frank Ocean,Table,0.0,281.67,0.0,PayPal,"Lille, France"
+2025-01-24,Charlie,Chaise,7.0,-44.61,-312.27,Espèces,"Paris, France"
+2025-01-22,Charlie,Bureau,5.0,237.13,1185.65,PayPal,
+2025-01-27,Bob Dupont,Chaise,1.0,96.8,96.8,PayPal,"Lille, France"
+2025-01-03,Henry,Chaise,4.0,251.75,1007.0,PayPal,"Lille, France"
+,David Pierre,Table,7.0,100.54,703.78,PayPal,Toulouse~France
+2025-01-29,Frank Ocean,Bureau,4.0,169.16,676.64,PayPal,"Lille, France"
+2025-01-23,George & Co.,,8.0,33.67,269.36,Carte de crédit,"Nice, FR"
+2025-01-17,Alice Martin,Table,10.0,-1.73,-17.3,,
+2025-01-17,Emma Smith,Table,10.0,293.76,2937.6,PayPal,"Lille, France"
+2025-01-07,,Table,7.0,84.81,593.67,,"Paris, France"
+2025-01-14,Bob Dupont,Chaise,3.0,134.52,403.56,,Toulouse~France
+2025-01-17,George & Co.,Bureau,10.0,,,,"Bordeaux, France"
+2025-01-13,George & Co.,,0.0,27.85,0.0,Carte de crédit,Marseille
+2025-01-30,George & Co.,Chaise,2.0,208.15,416.3,Espèces,Toulouse~France
+2025-01-29,George & Co.,,2.0,198.97,397.94,Espèces,"Lille, France"
+2025-01-13,Charlie,Table,3.0,35.33,105.99,,"Lyon, France"
+2025-01-23,,Bureau,6.0,8.18,49.08,Espèces,"Nice, FR"
+2025-01-28,Henry,Chaise,9.0,61.46,553.14,Carte de crédit,"Lyon, France"
+2025-01-11,George & Co.,Chaise,8.0,-34.27,-274.16,Espèces,"Lyon, France"
+2025-01-09,Bob Dupont,,3.0,157.08,471.24,,"Nice, FR"
+2025-01-05,Frank Ocean,Chaise,1.0,276.53,276.53,,"Paris, France"
+2025-01-23,Alice Martin,Chaise,9.0,61.51,553.59,Espèces,"Bordeaux, France"
+2025-01-16,David Pierre,Bureau,10.0,158.29,1582.9,PayPal,Toulouse~France
+2025-01-29,Henry,Chaise,4.0,269.12,1076.48,,"Nice, FR"
+2025-01-13,George & Co.,Bureau,7.0,253.68,1775.76,PayPal,"Paris, France"
+2025-01-11,Bob Dupont,Bureau,4.0,87.54,350.16,Carte de crédit,"Lyon, France"
+2025-01-13,Henry,,8.0,210.22,1681.76,PayPal,Marseille
+2025-01-28,Emma Smith,,1.0,265.58,265.58,Espèces,"Paris, France"
+2025-01-25,David Pierre,Chaise,6.0,84.67,508.02,Carte de crédit,Toulouse~France
+2025-01-21,David Pierre,Chaise,6.0,222.68,1336.08,PayPal,Marseille
+2025-01-03,Alice Martin,Bureau,4.0,277.48,702.29,,"Lyon, France"
+2025-01-25,Alice Martin,,4.0,82.0,328.0,Espèces,Marseille
+2025-01-13,Henry,Table,4.0,209.6,838.4,,"Bordeaux, France"
+2025-01-30,Henry,Bureau,2.0,76.02,152.04,Carte de crédit,"Nice, FR"
+2025-01-06,Henry,Table,1.0,143.76,143.76,Espèces,Marseille
+2025-01-31,Alice Martin,Table,0.0,83.09,0.0,PayPal,"Nice, FR"
+2025-01-25,George & Co.,Table,6.0,151.68,910.08,Carte de crédit,Toulouse~France
+2025-01-04,Frank Ocean,,4.0,269.9,1079.6,,"Paris, France"
+2025-01-21,Henry,Chaise,7.0,144.91,1014.37,Espèces,"Paris, France"
+2025-01-13,,Chaise,1.0,79.1,79.1,PayPal,Marseille
+2025-01-10,,Bureau,9.0,-26.46,-238.14,PayPal,"Lyon, France"
+2025-01-02,Frank Ocean,Table,8.0,252.59,2020.72,,"Lille, France"
+2025-01-18,Charlie,Table,10.0,-7.22,-72.2,Carte de crédit,"Bordeaux, France"
+2025-01-13,,,5.0,48.06,240.3,,"Paris, France"
+2025-01-14,George & Co.,,7.0,211.32,1479.24,,"Paris, France"
+2025-01-31,Alice Martin,Table,2.0,5.77,11.54,Carte de crédit,"Paris, France"
+2025-01-24,Bob Dupont,Table,0.0,107.81,0.0,Carte de crédit,"Paris, France"
+2025-01-20,Alice Martin,Table,7.0,219.29,1535.03,Carte de crédit,Marseille
+2025-01-10,Frank Ocean,Table,7.0,-4.97,-39.12,PayPal,Marseille
+2025-01-15,,Table,9.0,241.2,2170.8,PayPal,"Bordeaux, France"
+2025-01-31,David Pierre,Bureau,9.0,239.24,2153.16,Espèces,"Paris, France"
+2025-01-03,Charlie,Chaise,7.0,78.6,550.2,Espèces,"Nice, FR"
+2025-01-25,Henry,Table,0.0,9.9,0.0,Carte de crédit,"Lille, France"
+2025-01-27,Bob Dupont,Bureau,4.0,11.76,47.04,Carte de crédit,"Paris, France"
+2025-01-04,,Table,4.0,266.19,1064.76,Espèces,"Lyon, France"
+2025-01-16,Frank Ocean,,8.0,211.93,1695.44,Carte de crédit,Toulouse~France
+2025-01-16,Emma Smith,Bureau,7.0,269.89,1889.23,Espèces,"Lille, France"
+2025-01-13,Emma Smith,Table,1.0,208.93,208.93,Espèces,"Bordeaux, France"
+2025-01-28,Emma Smith,,6.0,63.26,364.73,PayPal,"Paris, France"
+2025-01-01,Alice Martin,Chaise,3.0,188.89,807.03,Carte de crédit,"Bordeaux, France"
+2025-01-03,Henry,Table,0.0,73.63,0.0,Carte de crédit,Toulouse~France
+,Henry,Bureau,8.0,281.66,2253.28,Espèces,"Nice, FR"
+2025-01-20,,Chaise,4.0,40.07,160.28,PayPal,"Paris, France"
+2025-01-19,Charlie,Chaise,,256.64,,Espèces,"Lille, France"
+2025-01-22,,,0.0,119.32,0.0,,"Lille, France"
+2025-01-06,George & Co.,Table,3.0,21.3,63.9,Carte de crédit,"Paris, France"
+2025-01-19,Alice Martin,Bureau,3.0,253.33,759.99,PayPal,"Nice, FR"
+2025-01-20,George & Co.,,1.0,293.72,293.72,PayPal,Marseille
+2025-01-28,,Bureau,6.0,148.24,889.44,PayPal,"Nice, FR"
+2025-01-31,,Bureau,2.0,282.64,565.28,Carte de crédit,"Paris, France"
+2025-01-22,George & Co.,,3.0,,,Carte de crédit,
+2025-01-04,Alice Martin,,7.0,-45.33,-317.31,PayPal,"Lyon, France"
+2025-01-28,Alice Martin,Chaise,10.0,123.02,1297.83,Carte de crédit,"Bordeaux, France"
+2025-01-20,,Bureau,10.0,-7.66,-76.6,Carte de crédit,Toulouse~France
+2025-01-02,Alice Martin,Bureau,6.0,215.92,1295.52,Carte de crédit,"Lille, France"
+2025-01-16,David Pierre,Bureau,0.0,296.68,0.0,,"Lyon, France"
+2025-01-14,George & Co.,,6.0,63.74,382.44,Carte de crédit,Marseille
+2025-01-18,Bob Dupont,Chaise,2.0,224.66,449.32,PayPal,"Lyon, France"
+2025-01-15,Bob Dupont,Table,3.0,-24.07,-72.21,Carte de crédit,Toulouse~France
+2025-01-31,Frank Ocean,,5.0,110.01,550.05,,"Bordeaux, France"
+2025-01-20,Bob Dupont,Chaise,5.0,273.37,1366.85,Carte de crédit,"Lyon, France"
+2025-01-19,,Table,1.0,227.32,227.32,Carte de crédit,"Bordeaux, France"
+2025-01-05,George & Co.,Bureau,1.0,41.47,41.47,,Toulouse~France
+2025-01-06,Henry,Chaise,6.0,247.82,1486.92,,Toulouse~France
+2025-01-30,David Pierre,Chaise,5.0,185.12,925.6,,
+2025-01-09,Frank Ocean,Chaise,7.0,101.69,1009.72,PayPal,"Lyon, France"
+2025-01-17,,,10.0,16.28,162.8,Espèces,"Paris, France"
+2025-01-10,Alice Martin,Table,7.0,297.33,2081.31,Espèces,"Nice, FR"
+2025-01-03,Frank Ocean,Bureau,3.0,246.07,738.21,,Marseille
+2025-01-20,Bob Dupont,,7.0,-29.13,-203.91,Espèces,"Nice, FR"
+2025-01-06,Emma Smith,,7.0,,,PayPal,
+2025-01-17,Alice Martin,Bureau,3.0,14.34,43.02,Carte de crédit,"Paris, France"
+2025-01-28,David Pierre,Table,9.0,253.16,2278.44,Espèces,Marseille
+2025-01-05,David Pierre,,2.0,208.78,417.56,Carte de crédit,Toulouse~France
+2025-01-18,,Bureau,10.0,239.57,2395.7,PayPal,Marseille
+2025-01-10,Henry,Chaise,7.0,207.75,1454.25,PayPal,"Paris, France"
+2025-01-17,Henry,,6.0,-7.06,-42.36,Carte de crédit,"Lyon, France"
+2025-01-02,Emma Smith,,6.0,229.39,1376.34,,Toulouse~France
+2025-01-08,Frank Ocean,Table,2.0,257.0,370.52,Espèces,Toulouse~France
+2025-01-02,David Pierre,Chaise,7.0,-2.14,-14.98,Carte de crédit,"Lille, France"
+2025-01-25,David Pierre,,6.0,95.43,572.58,PayPal,"Bordeaux, France"
+2025-01-24,Henry,Bureau,4.0,72.65,290.6,Espèces,"Bordeaux, France"
+2025-01-10,Alice Martin,Table,5.0,101.72,508.6,Espèces,
+2025-01-20,Alice Martin,,5.0,95.96,544.63,PayPal,Marseille
+2025-01-23,Bob Dupont,Chaise,3.0,197.43,592.29,PayPal,"Lyon, France"
+2025-01-19,Henry,Chaise,10.0,175.87,1758.7,,"Paris, France"
+2025-01-20,Henry,,4.0,-28.26,-113.04,Espèces,"Lyon, France"
+2025-01-11,Henry,Table,1.0,282.94,282.94,Carte de crédit,
+2025-01-19,Bob Dupont,Bureau,5.0,271.22,1356.1,,
+2025-01-23,George & Co.,Bureau,8.0,232.42,1251.03,Carte de crédit,"Bordeaux, France"
+2025-01-10,Henry,Table,2.0,19.16,48.47,Espèces,"Nice, FR"
+2025-01-14,Alice Martin,Chaise,9.0,168.45,1516.05,Espèces,"Lille, France"
+2025-01-04,David Pierre,Chaise,8.0,44.87,358.96,,
+2025-01-02,Charlie,Chaise,8.0,-29.15,-233.2,Carte de crédit,"Paris, France"
+2025-01-13,Frank Ocean,Table,10.0,-32.72,-327.2,Carte de crédit,
+2025-01-04,David Pierre,,8.0,-10.44,-83.52,PayPal,Marseille
+2025-01-20,,,5.0,210.87,663.33,Espèces,Marseille
+2025-01-30,Charlie,Bureau,0.0,161.71,0.0,Espèces,"Paris, France"
+2025-01-30,Bob Dupont,Bureau,6.0,147.01,882.06,PayPal,"Bordeaux, France"
+2025-01-25,Bob Dupont,Bureau,6.0,229.93,1379.58,Carte de crédit,"Lille, France"
+2025-01-04,Charlie,Chaise,2.0,224.87,449.74,Espèces,"Lille, France"
+2025-01-07,Alice Martin,Chaise,9.0,104.91,944.19,,"Lyon, France"
+2025-01-19,,Table,8.0,98.73,789.84,PayPal,"Bordeaux, France"
+2025-01-17,George & Co.,Table,0.0,87.3,0.0,PayPal,Marseille
+2025-01-25,,Chaise,7.0,14.02,98.14,PayPal,"Lyon, France"
+2025-01-10,David Pierre,Chaise,6.0,72.63,435.78,PayPal,"Paris, France"
+2025-01-29,Bob Dupont,,2.0,8.63,20.98,,Marseille
+2025-01-17,,Bureau,2.0,181.06,304.48,,"Bordeaux, France"
+2025-01-23,George & Co.,Table,1.0,135.95,135.95,Carte de crédit,Marseille
+2025-01-31,George & Co.,Table,6.0,159.71,958.26,Espèces,"Lyon, France"
+,Henry,Table,5.0,97.13,485.65,PayPal,Marseille
+2025-01-28,David Pierre,Chaise,9.0,228.63,2057.67,,"Bordeaux, France"
+2025-01-28,Henry,Chaise,9.0,82.3,740.7,Espèces,Marseille
+2025-01-30,Henry,,8.0,6.46,51.68,Espèces,"Paris, France"
+2025-01-12,Emma Smith,,0.0,194.11,0.0,Carte de crédit,"Nice, FR"
+2025-01-24,Henry,Table,2.0,213.65,468.38,Carte de crédit,"Bordeaux, France"
+2025-01-03,George & Co.,Table,7.0,275.38,1927.66,,"Paris, France"
+2025-01-17,Alice Martin,,7.0,58.64,410.48,Espèces,"Bordeaux, France"
+2025-01-27,George & Co.,Table,10.0,210.98,2109.8,,Marseille
+2025-01-14,Frank Ocean,Table,5.0,58.15,290.75,PayPal,Marseille
+2025-01-30,,Chaise,9.0,283.57,2552.13,PayPal,
+2025-01-07,Emma Smith,Bureau,6.0,-29.65,-177.9,PayPal,Marseille
+2025-01-14,Alice Martin,Table,5.0,-26.01,-130.05,,"Lille, France"
+2025-01-13,David Pierre,Bureau,9.0,4.48,40.32,PayPal,"Bordeaux, France"
+2025-01-30,,Table,4.0,133.22,532.88,Carte de crédit,Toulouse~France
+2025-01-11,Henry,,10.0,-35.11,-351.1,Espèces,"Nice, FR"
+2025-01-02,,,3.0,213.6,640.8,Espèces,"Nice, FR"
+2025-01-21,Frank Ocean,Table,2.0,297.83,595.66,PayPal,Toulouse~France
+2025-01-31,Alice Martin,Table,9.0,196.83,1771.47,Carte de crédit,Marseille
+2025-01-15,Emma Smith,,10.0,146.97,1469.7,Espèces,"Paris, France"
+2025-01-17,Emma Smith,Table,10.0,162.19,1621.9,Espèces,"Lille, France"
+2025-01-05,George & Co.,Bureau,3.0,292.73,878.19,Carte de crédit,Marseille
+2025-01-26,,Chaise,6.0,149.96,899.76,Carte de crédit,"Bordeaux, France"
+2025-01-15,David Pierre,,3.0,104.36,313.08,Carte de crédit,"Nice, FR"
+2025-01-26,Henry,Chaise,5.0,62.2,157.35,,"Lille, France"
+2025-01-12,Bob Dupont,Table,8.0,113.11,904.88,,"Nice, FR"
+2025-01-03,David Pierre,Bureau,9.0,122.14,1099.26,Carte de crédit,
+2025-01-24,Emma Smith,Chaise,3.0,203.55,610.65,,"Lyon, France"
+2025-01-23,Bob Dupont,Table,2.0,155.6,311.2,PayPal,"Nice, FR"
+2025-01-04,Henry,Bureau,,285.04,,PayPal,"Bordeaux, France"
+2025-01-09,Charlie,Bureau,0.0,215.27,0.0,Espèces,
+2025-01-20,Frank Ocean,,2.0,4.18,8.36,PayPal,
+2025-01-30,Charlie,Chaise,0.0,286.55,0.0,,"Paris, France"
+2025-01-23,Frank Ocean,,6.0,92.31,553.86,Espèces,Marseille
+2025-01-09,Henry,Bureau,7.0,33.07,231.49,PayPal,"Nice, FR"
+2025-01-27,,Bureau,4.0,245.56,982.24,PayPal,
+2025-01-14,Henry,,10.0,,,Espèces,"Lyon, France"
+2025-01-16,Bob Dupont,Table,3.0,49.44,148.32,Espèces,"Bordeaux, France"
+2025-01-14,Bob Dupont,Table,3.0,196.33,588.99,Carte de crédit,"Lyon, France"
+2025-01-22,Frank Ocean,Table,0.0,255.74,0.0,,Toulouse~France
+2025-01-10,,,3.0,120.38,361.14,Espèces,"Lyon, France"
+2025-01-09,Bob Dupont,Bureau,2.0,2.7,5.4,PayPal,"Lille, France"
+2025-01-21,Emma Smith,Chaise,1.0,168.81,168.81,PayPal,"Nice, FR"
+2025-01-10,David Pierre,Bureau,2.0,27.12,54.24,Espèces,Marseille
+,George & Co.,Table,,-12.0,,,"Bordeaux, France"
+2025-01-06,George & Co.,Bureau,7.0,122.93,860.51,Carte de crédit,
+2025-01-21,David Pierre,Table,9.0,112.65,1013.85,Carte de crédit,"Bordeaux, France"
+2025-01-24,,Bureau,9.0,-39.03,-351.27,PayPal,"Lyon, France"
+2025-01-14,David Pierre,Table,0.0,17.83,0.0,,"Nice, FR"
+2025-01-11,Alice Martin,Bureau,9.0,-7.06,-63.54,Carte de crédit,"Bordeaux, France"
+2025-01-14,David Pierre,,2.0,90.23,180.46,,Marseille
+2025-01-30,David Pierre,Bureau,2.0,183.87,367.74,Espèces,Toulouse~France
+2025-01-10,Frank Ocean,Table,5.0,-27.18,-135.9,Carte de crédit,"Nice, FR"
+2025-01-21,Charlie,,5.0,21.67,108.35,PayPal,Marseille
+2025-01-14,Emma Smith,Bureau,2.0,23.33,46.66,PayPal,"Bordeaux, France"
+2025-01-18,Frank Ocean,Bureau,4.0,156.11,624.44,Espèces,Marseille
+2025-01-26,,Bureau,4.0,261.64,1046.56,PayPal,Toulouse~France
+2025-01-29,David Pierre,Chaise,2.0,-20.46,-40.92,,"Bordeaux, France"
+2025-01-14,Henry,,6.0,12.92,77.52,Espèces,
+2025-01-16,Alice Martin,Table,6.0,117.51,486.33,Espèces,
+2025-01-15,,Table,7.0,283.18,1982.26,Espèces,"Paris, France"
+2025-01-18,Henry,Chaise,4.0,-9.44,-37.76,PayPal,"Bordeaux, France"
+2025-01-28,Frank Ocean,,4.0,-0.59,-2.36,,Toulouse~France
+2025-01-12,David Pierre,,1.0,152.88,152.88,Espèces,Toulouse~France
+2025-01-14,Alice Martin,Table,9.0,74.75,672.75,,Toulouse~France
+2025-01-23,Bob Dupont,Table,5.0,139.23,717.01,Carte de crédit,"Paris, France"
+2025-01-07,Alice Martin,,4.0,87.35,505.52,PayPal,Marseille
+2025-01-16,George & Co.,Chaise,9.0,-7.47,-67.23,PayPal,"Bordeaux, France"
+2025-01-17,,Bureau,0.0,183.8,0.0,Espèces,Toulouse~France
+2025-01-11,Charlie,Table,8.0,34.16,273.28,Espèces,Toulouse~France
+2025-01-09,Henry,,5.0,105.27,526.35,Espèces,"Bordeaux, France"
+2025-01-20,Henry,,4.0,188.97,755.88,Carte de crédit,
+2025-01-23,,Bureau,1.0,-43.6,-43.6,Carte de crédit,"Lille, France"
+2025-01-20,Frank Ocean,Chaise,5.0,24.63,123.15,Carte de crédit,Toulouse~France
+2025-01-25,Bob Dupont,Table,2.0,20.69,41.38,,Toulouse~France
+2025-01-24,Henry,,5.0,279.34,1396.7,Espèces,Marseille
+2025-01-12,Alice Martin,Bureau,0.0,7.59,0.0,Carte de crédit,"Nice, FR"
+2025-01-17,Alice Martin,Bureau,4.0,140.05,560.2,Carte de crédit,Toulouse~France
+2025-01-01,Henry,Bureau,9.0,-10.99,-98.91,Espèces,Marseille
+2025-01-23,Emma Smith,Table,6.0,67.25,403.5,,"Bordeaux, France"
+2025-01-06,David Pierre,Chaise,7.0,294.91,2064.37,Espèces,
+2025-01-17,Henry,Bureau,3.0,242.7,728.1,,"Lille, France"
+2025-01-29,Charlie,Bureau,4.0,46.73,123.41,Carte de crédit,"Paris, France"
+2025-01-21,,,3.0,115.11,345.33,,"Paris, France"
+2025-01-20,,Chaise,3.0,261.98,785.94,Espèces,Toulouse~France
+2025-01-22,Emma Smith,Bureau,9.0,,,,"Paris, France"
+2025-01-11,Bob Dupont,Chaise,6.0,173.24,1039.44,,"Lille, France"
+2025-01-09,George & Co.,Table,0.0,100.3,0.0,PayPal,"Bordeaux, France"
+2025-01-16,Henry,Chaise,0.0,28.74,0.0,Carte de crédit,"Paris, France"
+2025-01-05,Charlie,,9.0,230.36,2073.24,Espèces,Marseille
+2025-01-14,,,7.0,36.46,255.22,PayPal,Toulouse~France
+2025-01-10,George & Co.,Table,4.0,,,,"Paris, France"
+2025-01-10,Frank Ocean,Bureau,2.0,90.88,181.76,PayPal,"Lille, France"
+2025-01-25,Henry,Table,8.0,80.46,643.68,PayPal,"Nice, FR"
+2025-01-20,Charlie,Bureau,6.0,198.34,1190.04,,"Bordeaux, France"
+2025-01-27,David Pierre,Bureau,1.0,174.3,174.3,PayPal,"Bordeaux, France"
+2025-01-21,,,8.0,273.12,2184.96,,"Bordeaux, France"
+2025-01-09,George & Co.,Table,0.0,47.78,0.0,PayPal,"Paris, France"
+2025-01-20,David Pierre,Bureau,6.0,177.6,1065.6,Espèces,"Lyon, France"
+2025-01-31,Charlie,Table,5.0,191.44,957.2,PayPal,"Nice, FR"
+2025-01-12,Alice Martin,Chaise,3.0,3.34,10.02,PayPal,Toulouse~France
+2025-01-23,Bob Dupont,Chaise,1.0,212.5,212.5,Carte de crédit,"Lille, France"
+2025-01-22,Bob Dupont,Chaise,0.0,161.2,0.0,,Marseille
+2025-01-27,Emma Smith,,6.0,102.78,449.16,PayPal,"Bordeaux, France"
+2025-01-04,,Bureau,2.0,63.51,127.02,PayPal,"Lille, France"
+2025-01-21,Henry,,0.0,-42.33,-0.0,PayPal,"Paris, France"
+2025-01-28,Frank Ocean,Bureau,,41.25,,Espèces,
+2025-01-22,George & Co.,,7.0,47.41,331.87,,"Lyon, France"
+2025-01-24,Alice Martin,Bureau,9.0,-21.75,-195.75,Espèces,"Nice, FR"
+2025-01-06,,Table,8.0,221.82,1774.56,Carte de crédit,"Lille, France"
+2025-01-16,George & Co.,,1.0,117.03,117.03,Espèces,Marseille
+2025-01-07,Emma Smith,,10.0,295.45,2954.5,Espèces,Toulouse~France
+2025-01-27,Alice Martin,,2.0,177.01,354.02,PayPal,Marseille
+2025-01-09,Emma Smith,Bureau,6.0,-11.07,-66.42,Espèces,Marseille
+2025-01-06,George & Co.,Table,1.0,277.65,277.65,PayPal,
+2025-01-07,,Bureau,0.0,15.4,0.0,Carte de crédit,Marseille
+2025-01-18,George & Co.,Bureau,2.0,283.09,566.18,PayPal,"Lille, France"
+2025-01-06,,,5.0,63.94,319.7,PayPal,Marseille
+2025-01-28,Frank Ocean,Bureau,3.0,279.17,837.51,Carte de crédit,
+2025-01-12,Frank Ocean,Chaise,4.0,118.51,474.04,,"Nice, FR"
+2025-01-13,George & Co.,Bureau,1.0,-35.79,-35.79,PayPal,Toulouse~France
+2025-01-06,David Pierre,,3.0,110.28,330.84,,Marseille
+2025-01-24,Emma Smith,Bureau,2.0,64.04,128.08,Carte de crédit,"Paris, France"
+2025-01-27,,,0.0,126.91,0.0,,"Bordeaux, France"
+2025-01-05,Alice Martin,Table,0.0,264.94,0.0,,"Lyon, France"
+2025-01-27,,Chaise,2.0,-15.48,-30.96,Espèces,"Lyon, France"
+2025-01-17,George & Co.,Bureau,4.0,119.23,476.92,PayPal,
+2025-01-25,Frank Ocean,,9.0,91.57,824.13,Espèces,"Nice, FR"
+2025-01-26,,,1.0,224.25,224.25,,"Lille, France"
+2025-01-02,George & Co.,,4.0,-41.02,-203.46,PayPal,"Paris, France"
+2025-01-31,Emma Smith,,7.0,41.21,288.47,Espèces,Toulouse~France
+2025-01-11,Charlie,Chaise,9.0,-9.86,-88.74,Espèces,Toulouse~France
+2025-01-29,George & Co.,Chaise,7.0,61.24,428.68,,Marseille
+2025-01-30,,Chaise,2.0,43.06,86.12,PayPal,"Bordeaux, France"
+2025-01-20,David Pierre,Chaise,7.0,272.4,1906.8,PayPal,
+2025-01-11,,,8.0,101.43,811.44,PayPal,Toulouse~France
+2025-01-18,Bob Dupont,Bureau,3.0,292.39,877.17,Carte de crédit,"Lyon, France"
+2025-01-26,Henry,Chaise,6.0,121.92,731.52,Carte de crédit,"Bordeaux, France"
+2025-01-09,Emma Smith,Chaise,9.0,46.62,231.08,Espèces,Toulouse~France
+2025-01-30,Emma Smith,Bureau,1.0,46.79,46.79,Carte de crédit,"Lyon, France"
+2025-01-31,Emma Smith,,5.0,-25.06,-125.3,Carte de crédit,"Lyon, France"
+2025-01-16,Charlie,Bureau,5.0,30.8,154.0,Espèces,"Lyon, France"
+2025-01-20,,Chaise,,,,PayPal,"Nice, FR"
+2025-01-21,Charlie,Table,9.0,195.94,1763.46,Espèces,"Nice, FR"
+2025-01-11,Charlie,Bureau,3.0,119.7,359.1,,Toulouse~France
+2025-01-21,Alice Martin,Bureau,10.0,95.95,959.5,,Toulouse~France
+2025-01-30,Emma Smith,Chaise,7.0,4.39,30.73,PayPal,"Bordeaux, France"
+2025-01-12,Alice Martin,,4.0,-36.04,-144.16,PayPal,"Bordeaux, France"
+2025-01-18,George & Co.,,7.0,240.27,1681.89,,"Lille, France"
+2025-01-11,Henry,Bureau,4.0,-22.43,-89.72,Espèces,"Bordeaux, France"
+2025-01-24,Alice Martin,Chaise,8.0,285.79,2286.32,Carte de crédit,Toulouse~France
+2025-01-13,Alice Martin,Bureau,10.0,66.26,913.43,PayPal,"Paris, France"
+2025-01-26,Bob Dupont,Bureau,6.0,50.6,303.6,,"Lille, France"
+2025-01-08,David Pierre,Bureau,3.0,16.39,34.95,Carte de crédit,
+2025-01-08,,Chaise,6.0,-34.97,-209.82,,"Bordeaux, France"
+2025-01-08,Alice Martin,Table,10.0,,,Espèces,
+2025-01-01,Emma Smith,,10.0,207.39,2073.9,Espèces,
+2025-01-26,Emma Smith,Chaise,10.0,264.05,2640.5,Espèces,Toulouse~France
+2025-01-26,Frank Ocean,Table,5.0,292.47,1603.15,Espèces,"Lille, France"
+2025-01-01,,Bureau,8.0,285.65,2285.2,Espèces,Marseille
+2025-01-17,Charlie,,3.0,13.05,39.15,Carte de crédit,"Bordeaux, France"
+2025-01-22,George & Co.,,7.0,297.4,1949.59,Espèces,"Lille, France"
+2025-01-10,Henry,Chaise,2.0,164.84,329.68,PayPal,"Lille, France"
+2025-01-14,,,7.0,257.69,1803.83,Carte de crédit,"Lyon, France"
+2025-01-20,Alice Martin,Table,8.0,7.23,57.84,PayPal,
+2025-01-24,Alice Martin,Chaise,0.0,-8.28,-0.0,Carte de crédit,"Lyon, France"
+2025-01-04,Charlie,Chaise,3.0,262.59,674.05,Carte de crédit,Toulouse~France
+2025-01-21,Frank Ocean,Bureau,1.0,,,Carte de crédit,"Nice, FR"
+2025-01-06,Emma Smith,Chaise,0.0,211.54,0.0,Espèces,"Paris, France"
+2025-01-22,Henry,,1.0,194.97,194.97,Carte de crédit,"Lille, France"
+2025-01-25,Charlie,,1.0,40.84,40.84,Espèces,"Bordeaux, France"
+2025-01-23,,Table,5.0,97.76,488.8,,Toulouse~France
+2025-01-21,,Bureau,9.0,58.97,530.73,PayPal,"Lille, France"
+2025-01-03,Emma Smith,Table,1.0,296.62,296.62,Espèces,
+2025-01-05,Emma Smith,Bureau,2.0,65.89,89.98,PayPal,"Nice, FR"
+2025-01-21,,Chaise,4.0,283.24,1132.96,,"Lyon, France"
+2025-01-26,Frank Ocean,Table,2.0,272.61,545.22,,"Lille, France"
+2025-01-17,Alice Martin,Table,9.0,165.59,1490.31,PayPal,Toulouse~France
+2025-01-12,Henry,Bureau,2.0,68.53,137.06,,
+2025-01-01,,Bureau,1.0,292.03,292.03,PayPal,
+2025-01-04,Frank Ocean,Table,10.0,259.49,2594.9,Carte de crédit,
+2025-01-23,,Chaise,4.0,208.78,835.12,Espèces,"Lyon, France"
+2025-01-18,George & Co.,Chaise,1.0,168.93,168.93,PayPal,"Bordeaux, France"
+2025-01-27,George & Co.,Table,5.0,21.36,106.8,Carte de crédit,"Nice, FR"
+2025-01-07,David Pierre,Chaise,9.0,-22.74,-227.34,,"Lyon, France"
+2025-01-21,,Table,7.0,10.63,74.41,PayPal,Marseille
+2025-01-27,,,0.0,121.12,0.0,PayPal,"Lille, France"
+2025-01-01,David Pierre,,7.0,98.34,688.38,PayPal,"Bordeaux, France"
+2025-01-21,Emma Smith,Bureau,5.0,167.46,567.05,Espèces,Toulouse~France
+2025-01-01,Henry,Chaise,10.0,225.16,2251.6,Espèces,"Lille, France"
+2025-01-27,Emma Smith,Chaise,5.0,0.97,4.85,PayPal,Marseille
+2025-01-28,George & Co.,Table,3.0,111.6,334.8,Carte de crédit,"Lyon, France"
+2025-01-05,Bob Dupont,Table,5.0,178.95,894.75,Carte de crédit,"Lille, France"
+2025-01-10,Emma Smith,Table,0.0,260.55,0.0,Carte de crédit,"Lyon, France"
+2025-01-10,Alice Martin,Chaise,10.0,157.54,1575.4,PayPal,"Lyon, France"
+2025-01-14,David Pierre,Chaise,3.0,12.57,37.71,Carte de crédit,Marseille
+2025-01-26,Charlie,Bureau,1.0,234.09,234.09,PayPal,Toulouse~France
+2025-01-14,George & Co.,Bureau,,170.31,,Espèces,Toulouse~France
+2025-01-11,David Pierre,Chaise,3.0,131.68,327.79,Carte de crédit,"Bordeaux, France"
+2025-01-17,Charlie,,0.0,174.5,0.0,Espèces,"Bordeaux, France"
+2025-01-27,Henry,,0.0,106.27,0.0,,Toulouse~France
+2025-01-02,Charlie,Chaise,8.0,261.25,2090.0,Espèces,Toulouse~France
+2025-01-16,Charlie,Chaise,7.0,189.63,1327.41,Carte de crédit,"Lyon, France"
+2025-01-30,George & Co.,Bureau,3.0,-37.14,-75.43,Espèces,"Lyon, France"
+2025-01-02,David Pierre,Bureau,1.0,194.04,149.11,Espèces,Toulouse~France
+2025-01-22,David Pierre,Table,2.0,186.05,372.1,PayPal,"Nice, FR"
+2025-01-24,,Table,9.0,-1.09,-8.4,Espèces,"Paris, France"
+2025-01-05,,,10.0,228.8,2288.0,,
+2025-01-02,Alice Martin,Table,4.0,31.67,126.68,Carte de crédit,"Paris, France"
+2025-01-19,,Table,9.0,,,Espèces,Marseille
+2025-01-29,Frank Ocean,Bureau,10.0,233.23,2332.3,Espèces,Marseille
+2025-01-07,David Pierre,Chaise,6.0,294.58,1767.48,Carte de crédit,"Lyon, France"
+2025-01-15,Bob Dupont,,5.0,270.14,1350.7,Carte de crédit,Marseille
+2025-01-17,Emma Smith,,7.0,91.83,642.81,PayPal,"Bordeaux, France"
+2025-01-14,Emma Smith,Bureau,0.0,207.99,0.0,Carte de crédit,"Lille, France"
+2025-01-02,David Pierre,Table,10.0,24.35,243.5,PayPal,"Lyon, France"
+2025-01-12,Frank Ocean,Bureau,2.0,60.92,121.84,,"Bordeaux, France"
+2025-01-30,,,7.0,201.25,1408.75,PayPal,"Nice, FR"
+2025-01-18,Emma Smith,Table,6.0,1.29,7.74,,"Bordeaux, France"
+2025-01-24,Emma Smith,Bureau,2.0,86.34,172.68,,Toulouse~France
+2025-01-25,Bob Dupont,Bureau,5.0,258.73,1293.65,Espèces,Toulouse~France
+2025-01-17,David Pierre,Table,7.0,149.7,1047.9,PayPal,Marseille
+2025-01-11,Bob Dupont,Table,8.0,76.79,614.32,Espèces,"Bordeaux, France"
+2025-01-09,George & Co.,Table,5.0,-28.43,-142.15,Espèces,Marseille
+2025-01-20,Bob Dupont,Bureau,3.0,120.89,310.45,Espèces,"Paris, France"
+2025-01-24,David Pierre,Chaise,6.0,199.64,1197.84,Espèces,Marseille
+2025-01-25,Charlie,Table,5.0,242.58,1212.9,,"Paris, France"
+2025-01-28,Bob Dupont,Bureau,2.0,-6.35,-12.7,Espèces,"Lyon, France"
+2025-01-29,Charlie,Chaise,5.0,247.5,1237.5,Carte de crédit,Marseille
+2025-01-17,David Pierre,Table,0.0,200.16,0.0,Espèces,
+2025-01-16,Alice Martin,,4.0,118.34,473.36,Carte de crédit,"Paris, France"
+2025-01-16,Frank Ocean,Chaise,3.0,296.81,890.43,PayPal,"Paris, France"
+2025-01-17,Frank Ocean,,4.0,143.74,574.96,Espèces,"Lille, France"
+2025-01-14,Frank Ocean,Table,6.0,15.8,94.8,PayPal,"Paris, France"
+2025-01-26,Bob Dupont,Table,9.0,60.31,542.79,PayPal,Marseille
+2025-01-16,George & Co.,Chaise,8.0,211.05,1688.4,,"Bordeaux, France"
+2025-01-20,George & Co.,Table,1.0,246.61,337.46,PayPal,"Paris, France"
+2025-01-01,David Pierre,Table,3.0,130.66,391.98,PayPal,"Lyon, France"
+2025-01-23,Alice Martin,Table,1.0,-46.15,-46.15,Espèces,"Bordeaux, France"
+2025-01-22,Charlie,Table,10.0,37.21,372.1,Espèces,"Nice, FR"
+2025-01-17,Emma Smith,,5.0,80.54,493.6,Carte de crédit,"Lille, France"
+2025-01-26,David Pierre,Table,1.0,-47.86,-47.86,Espèces,Toulouse~France
+2025-01-10,Alice Martin,Table,6.0,-2.72,-16.32,,Toulouse~France
+2025-01-04,Emma Smith,Bureau,7.0,-26.89,-188.23,,"Paris, France"
+2025-01-11,Alice Martin,Bureau,5.0,115.74,578.7,Carte de crédit,"Nice, FR"
+2025-01-24,,,7.0,65.66,459.62,Carte de crédit,Toulouse~France
+2025-01-30,,Chaise,7.0,250.61,2388.56,Carte de crédit,
+2025-01-20,David Pierre,Table,10.0,168.46,1684.6,Espèces,"Lyon, France"
+2025-01-05,George & Co.,,8.0,250.43,2003.44,Carte de crédit,"Nice, FR"
+2025-01-19,Emma Smith,,0.0,161.69,0.0,Carte de crédit,"Lyon, France"
+2025-01-05,David Pierre,Table,4.0,-38.06,-152.24,,Toulouse~France
+2025-01-30,Bob Dupont,,7.0,-23.43,-164.01,,"Lyon, France"
+2025-01-01,David Pierre,,2.0,216.24,432.48,,"Lyon, France"
+2025-01-16,Frank Ocean,Bureau,9.0,266.29,2396.61,PayPal,Marseille
+2025-01-02,Frank Ocean,Bureau,0.0,10.57,0.0,Espèces,Toulouse~France
+2025-01-02,Emma Smith,Chaise,10.0,74.41,744.1,Carte de crédit,Toulouse~France
+2025-01-09,David Pierre,Bureau,5.0,152.27,761.35,Espèces,"Bordeaux, France"
+2025-01-26,Emma Smith,,4.0,225.89,903.56,Carte de crédit,"Lyon, France"
+2025-01-05,Bob Dupont,Chaise,8.0,-43.59,-348.72,PayPal,Marseille
+2025-01-09,Emma Smith,Bureau,2.0,141.04,282.08,Carte de crédit,"Nice, FR"
+,David Pierre,,,-43.85,,,Marseille
+2025-01-26,George & Co.,Table,6.0,43.05,258.3,Carte de crédit,Marseille
+2025-01-30,Frank Ocean,Chaise,3.0,225.84,677.52,,
+2025-01-19,,Bureau,8.0,-17.16,-137.28,PayPal,"Lyon, France"
+2025-01-15,Emma Smith,Table,6.0,153.47,920.82,,"Paris, France"
+2025-01-05,,Chaise,8.0,92.79,742.32,PayPal,Toulouse~France
+2025-01-12,,,6.0,-35.95,-215.7,,Marseille
+2025-01-08,Bob Dupont,Chaise,1.0,236.13,236.13,Espèces,"Bordeaux, France"
+2025-01-24,Alice Martin,Chaise,0.0,259.07,0.0,PayPal,"Lyon, France"
+2025-01-25,Emma Smith,,10.0,288.94,2889.4,PayPal,Toulouse~France
+2025-01-26,David Pierre,,0.0,280.87,0.0,PayPal,Marseille
+2025-01-18,Bob Dupont,Table,7.0,192.29,770.85,Espèces,"Paris, France"
+2025-01-21,Henry,Chaise,8.0,214.86,1718.88,Espèces,"Bordeaux, France"
+2025-01-05,Bob Dupont,Bureau,5.0,-19.1,-95.5,Espèces,Marseille
+2025-01-03,Emma Smith,,9.0,249.26,2923.35,,"Lyon, France"
+2025-01-26,David Pierre,Chaise,0.0,-12.02,-0.0,Carte de crédit,"Nice, FR"
+2025-01-27,,Table,9.0,161.68,1455.12,,"Bordeaux, France"
+2025-01-31,David Pierre,Chaise,3.0,223.07,669.21,PayPal,Toulouse~France
+,Emma Smith,,0.0,37.7,0.0,Espèces,"Nice, FR"
+2025-01-31,,Chaise,9.0,226.9,2042.1,PayPal,"Lyon, France"
+2025-01-31,,Bureau,0.0,148.54,0.0,PayPal,"Lyon, France"
+2025-01-21,Emma Smith,Chaise,8.0,3.8,30.4,Carte de crédit,"Lille, France"
+2025-01-08,,Bureau,8.0,276.13,2209.04,PayPal,"Bordeaux, France"
+2025-01-10,Emma Smith,,2.0,281.66,563.32,Espèces,"Lyon, France"
+2025-01-04,Bob Dupont,Table,3.0,208.36,625.08,PayPal,"Nice, FR"
+2025-01-16,,Chaise,1.0,234.49,234.49,Espèces,"Bordeaux, France"
+2025-01-07,Henry,Bureau,6.0,11.31,67.86,Espèces,Toulouse~France
+2025-01-28,Frank Ocean,,3.0,162.06,486.18,Espèces,"Lyon, France"
+2025-01-18,,Table,8.0,298.99,2391.92,Espèces,"Lille, France"
+2025-01-13,David Pierre,Table,9.0,174.27,1568.43,PayPal,Marseille
+2025-01-28,David Pierre,,3.0,94.6,283.8,PayPal,Marseille
+2025-01-11,Alice Martin,Table,8.0,213.57,1708.56,,"Lyon, France"
+2025-01-06,Emma Smith,Chaise,6.0,88.97,746.86,Espèces,"Bordeaux, France"
+2025-01-12,Alice Martin,Bureau,10.0,298.42,2984.2,Carte de crédit,"Bordeaux, France"
+2025-01-18,Bob Dupont,Table,0.0,202.14,0.0,Carte de crédit,Marseille
+2025-01-09,Alice Martin,Table,0.0,106.29,0.0,PayPal,"Lille, France"
+2025-01-20,George & Co.,Bureau,0.0,225.94,0.0,,
+2025-01-02,Emma Smith,Table,8.0,-37.68,-195.12,Carte de crédit,"Lille, France"
+2025-01-06,Bob Dupont,Bureau,7.0,,,Espèces,Marseille
+2025-01-16,David Pierre,,1.0,62.41,62.41,Carte de crédit,
+2025-01-09,David Pierre,Table,5.0,64.3,321.5,Espèces,"Lyon, France"
+2025-01-18,,Chaise,5.0,174.04,870.2,Espèces,Marseille
+2025-01-06,,Chaise,5.0,62.04,310.2,PayPal,Toulouse~France
+2025-01-28,Henry,Chaise,6.0,-35.28,-211.68,,"Lille, France"
+2025-01-15,Charlie,Bureau,7.0,84.55,591.85,Espèces,Toulouse~France
+2025-01-18,Alice Martin,,8.0,175.98,1407.84,,Marseille
+2025-01-06,David Pierre,Bureau,2.0,134.03,268.06,Espèces,Toulouse~France
+2025-01-23,George & Co.,Chaise,2.0,146.72,293.44,,Marseille
+2025-01-07,Bob Dupont,Bureau,6.0,210.28,1261.68,PayPal,"Lyon, France"
+2025-01-17,,Chaise,3.0,21.27,63.81,,"Nice, FR"
+2025-01-27,David Pierre,Table,0.0,-7.94,-0.0,PayPal,"Lyon, France"
+2025-01-13,Bob Dupont,Bureau,5.0,260.02,1300.1,,"Paris, France"
+2025-01-08,,,5.0,23.48,117.4,,Marseille
+2025-01-25,Frank Ocean,,2.0,-15.7,-36.78,Carte de crédit,Toulouse~France
+2025-01-24,Bob Dupont,,10.0,175.48,1754.8,PayPal,Toulouse~France
+2025-01-22,Frank Ocean,Bureau,3.0,265.01,795.03,,Marseille
+2025-01-31,Bob Dupont,Bureau,0.0,-15.33,-0.0,Espèces,Toulouse~France
+2025-01-29,,Bureau,3.0,110.44,331.32,Carte de crédit,"Lille, France"
+2025-01-15,David Pierre,Table,10.0,243.68,2436.8,Carte de crédit,"Lyon, France"
+2025-01-07,Henry,Table,9.0,243.67,2193.03,,Toulouse~France
+2025-01-10,Emma Smith,Bureau,0.0,154.95,0.0,Espèces,"Nice, FR"
+2025-01-31,Bob Dupont,,5.0,194.42,972.1,PayPal,Toulouse~France
+2025-01-29,Bob Dupont,Chaise,6.0,165.89,995.34,PayPal,Toulouse~France
+2025-01-13,Emma Smith,Chaise,7.0,170.79,1195.53,Carte de crédit,"Bordeaux, France"
+2025-01-10,Bob Dupont,Table,10.0,156.86,1568.6,PayPal,Marseille
+2025-01-25,Frank Ocean,Table,7.0,276.43,1935.01,Carte de crédit,
+2025-01-21,George & Co.,Table,1.0,157.38,157.38,PayPal,"Nice, FR"
+2025-01-07,Alice Martin,Chaise,0.0,93.32,0.0,Carte de crédit,"Nice, FR"
+2025-01-24,George & Co.,,3.0,165.42,496.26,,"Lille, France"
+2025-01-20,Bob Dupont,Table,9.0,224.11,1425.54,PayPal,Marseille
+2025-01-01,Alice Martin,Bureau,5.0,,,Espèces,"Lille, France"
+2025-01-01,Henry,Bureau,10.0,249.3,2493.0,,"Lille, France"
+2025-01-17,Charlie,Bureau,10.0,-34.2,-285.69,Carte de crédit,"Lyon, France"
+2025-01-24,,,6.0,31.48,109.05,,"Nice, FR"
+2025-01-11,George & Co.,Table,5.0,167.48,1219.57,Espèces,Toulouse~France
+2025-01-14,Bob Dupont,Table,3.0,148.38,445.14,Carte de crédit,"Lyon, France"
+2025-01-13,Charlie,Chaise,3.0,205.98,617.94,,"Bordeaux, France"
+2025-01-26,Charlie,Chaise,2.0,51.72,103.44,Carte de crédit,Toulouse~France
+2025-01-09,George & Co.,,7.0,122.33,856.31,PayPal,"Nice, FR"
+2025-01-06,Alice Martin,Table,7.0,-47.5,-332.5,Espèces,
+2025-01-06,,Bureau,5.0,16.64,83.2,PayPal,
+2025-01-02,Charlie,Chaise,8.0,-42.69,-341.52,PayPal,Toulouse~France
+2025-01-10,Frank Ocean,Table,6.0,-38.7,-232.2,PayPal,
+2025-01-11,David Pierre,Bureau,10.0,225.4,2254.0,Espèces,"Lyon, France"
+2025-01-28,,Bureau,10.0,-30.6,-306.0,Espèces,"Paris, France"
+2025-01-28,,,7.0,184.39,1290.73,PayPal,"Paris, France"
+2025-01-21,Alice Martin,,2.0,-41.71,-83.42,Carte de crédit,"Lyon, France"
+2025-01-07,Frank Ocean,Chaise,7.0,108.95,762.65,Espèces,"Nice, FR"
+2025-01-04,Henry,Bureau,4.0,156.67,626.68,Espèces,
+2025-01-17,George & Co.,Bureau,1.0,49.85,49.85,PayPal,Toulouse~France
+2025-01-21,,Table,6.0,31.29,187.74,PayPal,"Bordeaux, France"
+,David Pierre,,6.0,101.54,609.24,PayPal,Toulouse~France
+2025-01-02,Alice Martin,Chaise,9.0,156.84,1411.56,,"Bordeaux, France"
+2025-01-08,Henry,Table,0.0,-15.36,-0.0,PayPal,"Nice, FR"
+2025-01-22,Emma Smith,Chaise,8.0,244.13,1953.04,,"Nice, FR"
+2025-01-19,Emma Smith,Table,2.0,8.92,17.84,Carte de crédit,Toulouse~France
+2025-01-01,,,9.0,274.45,2470.05,PayPal,"Lyon, France"
+2025-01-06,Bob Dupont,Chaise,8.0,294.45,2355.6,,
+2025-01-03,Alice Martin,Table,9.0,-40.95,-368.55,,"Lyon, France"
+2025-01-10,David Pierre,,1.0,30.55,30.55,Carte de crédit,"Nice, FR"
+2025-01-06,Henry,Bureau,0.0,-20.79,-0.0,PayPal,Toulouse~France
+2025-01-21,Emma Smith,Chaise,3.0,139.31,365.38,,"Lille, France"
+2025-01-17,David Pierre,Chaise,9.0,-31.36,-282.24,PayPal,"Lyon, France"
+2025-01-19,Emma Smith,Chaise,8.0,113.85,910.8,Espèces,"Lyon, France"
+2025-01-18,David Pierre,Chaise,9.0,266.56,2399.04,PayPal,Marseille
+2025-01-17,Henry,Chaise,9.0,251.53,2263.77,PayPal,"Lyon, France"
+2025-01-03,Alice Martin,Bureau,6.0,17.14,102.84,Carte de crédit,"Nice, FR"
+2025-01-28,Alice Martin,Table,5.0,116.02,580.1,PayPal,"Nice, FR"
+2025-01-26,George & Co.,,8.0,151.68,1213.44,,
+2025-01-16,David Pierre,Bureau,8.0,208.01,1664.08,PayPal,"Nice, FR"
+2025-01-20,Emma Smith,Bureau,7.0,168.06,970.08,Carte de crédit,"Lille, France"
+2025-01-12,David Pierre,,8.0,282.81,2262.48,Carte de crédit,Toulouse~France
+2025-01-18,Charlie,Bureau,10.0,102.1,1021.0,Espèces,"Lille, France"
+2025-01-21,George & Co.,Chaise,4.0,63.57,256.85,Espèces,"Lille, France"
+2025-01-31,,Bureau,5.0,,,Carte de crédit,"Lyon, France"
+2025-01-31,Emma Smith,,8.0,227.68,1821.44,PayPal,"Paris, France"
+2025-01-19,David Pierre,,6.0,172.14,1032.84,PayPal,"Lille, France"
+2025-01-22,Alice Martin,Table,4.0,215.38,861.52,,Toulouse~France
+2025-01-16,George & Co.,Chaise,10.0,198.69,1986.9,PayPal,Toulouse~France
+2025-01-25,Charlie,,1.0,142.95,142.95,Carte de crédit,"Lille, France"
+2025-01-07,Henry,Bureau,5.0,266.39,1331.95,Carte de crédit,Toulouse~France
+2025-01-28,,,0.0,141.27,0.0,Carte de crédit,"Lille, France"
+2025-01-16,David Pierre,Table,5.0,188.47,942.35,Espèces,"Nice, FR"
+2025-01-15,,Bureau,2.0,-11.22,-22.44,Carte de crédit,"Paris, France"
+2025-01-13,,Chaise,0.0,209.84,0.0,,"Paris, France"
+2025-01-10,Bob Dupont,Table,5.0,234.27,1171.35,PayPal,Marseille
+2025-01-03,Emma Smith,Bureau,7.0,115.59,809.13,,"Lyon, France"
+2025-01-19,Alice Martin,Table,1.0,98.61,132.23,PayPal,"Lille, France"
+2025-01-30,Bob Dupont,,5.0,27.79,138.95,Espèces,
+2025-01-05,,Bureau,8.0,44.19,519.86,Carte de crédit,"Lille, France"
+2025-01-05,David Pierre,Bureau,3.0,-30.06,-90.18,Carte de crédit,Marseille
+2025-01-20,Charlie,,5.0,237.08,1185.4,Carte de crédit,"Paris, France"
+2025-01-09,Bob Dupont,Bureau,6.0,-4.51,-27.06,Carte de crédit,Marseille
+2025-01-22,Emma Smith,,8.0,173.44,1387.52,Carte de crédit,"Lyon, France"
+2025-01-26,,Bureau,4.0,228.25,913.0,Carte de crédit,"Nice, FR"
+2025-01-18,Frank Ocean,Bureau,2.0,83.93,167.86,Carte de crédit,"Lille, France"
+2025-01-04,Henry,Table,8.0,107.61,860.88,Espèces,"Paris, France"
+2025-01-02,Charlie,Bureau,4.0,127.52,510.08,,"Lille, France"
+2025-01-04,David Pierre,Table,8.0,87.7,701.6,Espèces,"Nice, FR"
+2025-01-23,Frank Ocean,Chaise,5.0,131.32,656.6,,Toulouse~France
+2025-01-20,Emma Smith,Chaise,6.0,27.69,166.14,Espèces,"Lyon, France"
+2025-01-09,Emma Smith,Chaise,2.0,64.27,128.54,Carte de crédit,"Lyon, France"
+2025-01-28,Emma Smith,Table,0.0,185.19,0.0,Espèces,"Nice, FR"
+2025-01-03,Frank Ocean,Table,5.0,-41.12,-205.6,Carte de crédit,"Lyon, France"
+2025-01-30,George & Co.,,4.0,153.67,614.68,Carte de crédit,Marseille
+2025-01-02,Bob Dupont,,2.0,2.54,5.08,,"Lille, France"
+2025-01-22,Charlie,Table,2.0,84.02,168.04,Carte de crédit,"Bordeaux, France"
+2025-01-30,Emma Smith,Chaise,5.0,82.26,411.3,Espèces,"Paris, France"
+2025-01-15,,,8.0,51.3,410.4,Espèces,"Paris, France"
+2025-01-24,Charlie,Table,4.0,46.57,186.28,,Toulouse~France
+2025-01-16,Frank Ocean,,8.0,-36.83,-198.45,,Marseille
+2025-01-31,Alice Martin,Bureau,3.0,243.94,731.82,Espèces,"Nice, FR"
+2025-01-16,,,9.0,155.57,1400.13,,"Paris, France"
+2025-01-14,Charlie,Chaise,9.0,72.51,652.59,Espèces,"Paris, France"
+2025-01-12,,Bureau,7.0,182.6,1278.2,Carte de crédit,"Paris, France"
+2025-01-27,Bob Dupont,Chaise,0.0,205.28,0.0,PayPal,"Bordeaux, France"
+2025-01-11,Alice Martin,Chaise,7.0,12.47,87.29,Espèces,"Lyon, France"
+2025-01-23,Emma Smith,,8.0,-46.59,-372.72,PayPal,
+2025-01-04,Frank Ocean,,7.0,193.78,1356.46,PayPal,Marseille
+2025-01-02,Emma Smith,Bureau,2.0,63.84,127.68,,"Bordeaux, France"
+2025-01-22,George & Co.,,1.0,253.18,253.18,Carte de crédit,"Bordeaux, France"
+2025-01-05,Frank Ocean,Chaise,0.0,251.05,0.0,PayPal,
+2025-01-02,Bob Dupont,Chaise,3.0,73.61,220.83,Espèces,Marseille
+2025-01-07,Alice Martin,Chaise,10.0,-27.49,-274.9,Espèces,"Lyon, France"
+2025-01-11,Charlie,Table,3.0,163.06,374.57,Carte de crédit,"Lyon, France"
+2025-01-17,Charlie,Table,10.0,178.17,1781.7,Carte de crédit,"Lille, France"
+2025-01-07,Henry,,8.0,174.8,1398.4,Carte de crédit,"Lille, France"
+2025-01-19,Frank Ocean,,9.0,105.93,953.37,Espèces,"Nice, FR"
+2025-01-28,Bob Dupont,,4.0,225.73,902.92,Espèces,
+2025-01-07,,,5.0,199.84,999.2,Carte de crédit,"Bordeaux, France"
+2025-01-08,Henry,Chaise,2.0,12.83,19.3,Espèces,Marseille
+2025-01-21,Frank Ocean,Bureau,0.0,113.98,0.0,,Toulouse~France
+2025-01-21,George & Co.,Bureau,1.0,209.36,209.36,Carte de crédit,"Paris, France"
+2025-01-15,David Pierre,,2.0,104.77,148.85,PayPal,Marseille
+2025-01-03,David Pierre,,9.0,279.94,3019.4,Espèces,"Bordeaux, France"
+2025-01-20,George & Co.,Chaise,2.0,127.91,255.82,PayPal,"Nice, FR"
+2025-01-08,Bob Dupont,Table,2.0,207.77,415.54,Carte de crédit,"Lyon, France"
+2025-01-10,David Pierre,Table,6.0,153.89,485.99,PayPal,Marseille
+2025-01-12,Charlie,Chaise,,124.32,,,"Lille, France"
+2025-01-01,Emma Smith,,9.0,,,PayPal,"Lille, France"
+2025-01-10,Henry,Table,6.0,69.26,415.56,PayPal,Toulouse~France
+2025-01-30,David Pierre,,10.0,80.76,807.6,Carte de crédit,"Paris, France"
+2025-01-22,Charlie,Table,6.0,180.36,1082.16,,Toulouse~France
+2025-01-20,Emma Smith,Table,10.0,-19.25,-192.5,Carte de crédit,"Nice, FR"
+2025-01-01,Henry,,2.0,160.12,320.24,Espèces,
+2025-01-09,,Chaise,0.0,,,PayPal,Toulouse~France
+2025-01-13,David Pierre,Bureau,9.0,285.97,2573.73,Espèces,"Lille, France"
+2025-01-06,Henry,Chaise,8.0,64.46,515.68,Carte de crédit,"Nice, FR"
+2025-01-11,Alice Martin,Chaise,2.0,154.4,221.98,PayPal,"Paris, France"
+2025-01-04,Bob Dupont,,7.0,128.65,900.55,,Marseille
+2025-01-10,David Pierre,,10.0,124.07,1240.7,Carte de crédit,"Lyon, France"
+2025-01-29,David Pierre,Bureau,8.0,99.44,795.52,Espèces,"Paris, France"
+2025-01-20,Emma Smith,Chaise,9.0,275.71,2481.39,PayPal,Marseille
+2025-01-27,Emma Smith,Bureau,1.0,21.86,21.86,Carte de crédit,"Lyon, France"
+2025-01-16,George & Co.,Bureau,3.0,256.41,769.23,,"Nice, FR"
+2025-01-01,Bob Dupont,Bureau,4.0,106.88,427.52,PayPal,Marseille
+2025-01-01,Charlie,Chaise,10.0,135.01,1350.1,Espèces,"Paris, France"
+2025-01-30,Alice Martin,,5.0,-1.4,-7.0,Carte de crédit,"Lyon, France"
+2025-01-11,George & Co.,Table,1.0,280.32,280.32,Carte de crédit,"Paris, France"
+2025-01-20,Alice Martin,,6.0,4.22,25.32,PayPal,Toulouse~France
+2025-01-02,Charlie,Bureau,3.0,79.8,239.4,Carte de crédit,"Lyon, France"
+2025-01-11,,Table,6.0,-2.23,-19.16,PayPal,Toulouse~France
+2025-01-13,Emma Smith,Bureau,2.0,263.39,747.23,,"Lyon, France"
+2025-01-29,Frank Ocean,Table,5.0,70.98,354.9,Espèces,Toulouse~France
+2025-01-05,,Bureau,7.0,-31.4,-219.8,PayPal,Marseille
+2025-01-26,,Chaise,6.0,147.93,887.58,PayPal,"Lyon, France"
+2025-01-02,Alice Martin,Chaise,3.0,275.99,827.97,Espèces,"Lyon, France"
+2025-01-18,George & Co.,,3.0,119.39,358.17,Carte de crédit,Toulouse~France
+2025-01-03,David Pierre,,7.0,29.9,209.3,,"Lille, France"
+2025-01-06,David Pierre,Table,5.0,-8.65,-43.25,Espèces,"Nice, FR"
+2025-01-07,Bob Dupont,Bureau,8.0,192.9,1543.2,Carte de crédit,"Nice, FR"
+2025-01-30,,Chaise,0.0,33.92,0.0,PayPal,"Lyon, France"
+2025-01-15,Bob Dupont,Table,4.0,228.11,912.44,Espèces,"Paris, France"
+2025-01-15,Alice Martin,Bureau,7.0,16.82,117.74,,"Bordeaux, France"
+2025-01-03,Frank Ocean,Chaise,1.0,237.99,237.99,,
+2025-01-17,Bob Dupont,Bureau,7.0,242.24,1695.68,,"Paris, France"
+2025-01-04,,Table,3.0,22.07,66.21,,
+2025-01-19,Henry,Chaise,6.0,-26.98,-161.88,PayPal,"Nice, FR"
+2025-01-18,Emma Smith,Table,1.0,7.03,7.03,PayPal,"Lyon, France"
+2025-01-31,Alice Martin,Bureau,6.0,12.4,74.4,,"Nice, FR"
+2025-01-16,Henry,Table,,92.76,,PayPal,"Lille, France"
+2025-01-17,George & Co.,Table,9.0,-24.34,-219.06,Espèces,
+2025-01-10,Frank Ocean,Table,6.0,54.5,327.0,Carte de crédit,"Lyon, France"
+2025-01-19,Emma Smith,Bureau,5.0,51.44,257.2,Carte de crédit,Marseille
+2025-01-21,George & Co.,Bureau,6.0,11.48,68.88,,"Bordeaux, France"
+2025-01-02,Emma Smith,Table,9.0,107.84,970.56,PayPal,"Nice, FR"
+2025-01-21,,Bureau,2.0,297.52,595.04,,"Paris, France"
+2025-01-15,Alice Martin,Chaise,,163.46,,Carte de crédit,Toulouse~France
+2025-01-31,,Table,8.0,299.13,2393.04,,"Lille, France"
+2025-01-26,Emma Smith,Table,7.0,113.42,793.94,Carte de crédit,"Lille, France"
+2025-01-13,George & Co.,Bureau,5.0,147.92,739.6,Espèces,"Nice, FR"
+2025-01-25,,Bureau,10.0,283.04,2830.4,PayPal,"Lille, France"
+2025-01-18,David Pierre,Table,,,,PayPal,Toulouse~France
+2025-01-23,David Pierre,,4.0,152.05,608.2,PayPal,Marseille
+2025-01-27,Bob Dupont,Chaise,0.0,77.07,0.0,,"Lyon, France"
+2025-01-06,Alice Martin,Bureau,8.0,29.14,233.12,Carte de crédit,"Bordeaux, France"
+2025-01-08,George & Co.,Chaise,8.0,152.77,1222.16,Carte de crédit,Toulouse~France
+2025-01-07,David Pierre,Chaise,10.0,51.66,516.6,Espèces,"Paris, France"
+2025-01-12,Henry,Chaise,10.0,100.78,1484.15,Espèces,
+2025-01-24,Emma Smith,,7.0,134.16,939.12,,"Nice, FR"
+2025-01-27,Charlie,Chaise,7.0,273.95,1917.65,,"Paris, France"
+2025-01-31,Henry,Bureau,4.0,151.76,607.04,PayPal,"Lille, France"
+2025-01-25,George & Co.,,1.0,247.43,247.43,,"Nice, FR"
+2025-01-26,George & Co.,Table,9.0,276.82,2491.38,Espèces,Marseille
+2025-01-02,David Pierre,Bureau,1.0,195.95,195.95,Carte de crédit,Toulouse~France
+2025-01-04,David Pierre,,4.0,90.25,361.0,,Marseille
+2025-01-24,Henry,Bureau,2.0,225.29,450.58,Espèces,"Lille, France"
+2025-01-27,George & Co.,,8.0,181.44,1451.52,PayPal,"Nice, FR"
+2025-01-19,Alice Martin,Bureau,8.0,,,PayPal,"Bordeaux, France"
+2025-01-16,Charlie,Table,9.0,13.27,119.43,PayPal,"Bordeaux, France"
+2025-01-19,David Pierre,Bureau,1.0,77.01,77.01,Espèces,"Bordeaux, France"
+2025-01-27,Charlie,Chaise,3.0,64.03,192.09,Espèces,Toulouse~France
+2025-01-11,Frank Ocean,Chaise,9.0,184.52,1660.68,PayPal,"Lyon, France"
+2025-01-20,Henry,Chaise,7.0,36.48,255.36,Carte de crédit,"Paris, France"
+2025-01-19,Alice Martin,Bureau,2.0,274.81,549.62,PayPal,"Lille, France"
+2025-01-17,George & Co.,Table,0.0,107.72,0.0,,"Nice, FR"
+2025-01-14,David Pierre,Table,9.0,61.55,553.95,PayPal,"Bordeaux, France"
+2025-01-28,,Table,8.0,159.81,1278.48,Carte de crédit,Marseille
+2025-01-17,Charlie,,5.0,101.61,508.05,,
+2025-01-05,George & Co.,,8.0,158.01,1264.08,Carte de crédit,"Paris, France"
+2025-01-08,,,1.0,230.65,230.65,Carte de crédit,"Bordeaux, France"
+2025-01-16,,Bureau,,162.65,,,"Lille, France"
+2025-01-22,David Pierre,Table,2.0,22.19,44.38,PayPal,"Lille, France"
+2025-01-03,Emma Smith,Table,3.0,172.56,517.68,Espèces,Toulouse~France
+2025-01-03,George & Co.,Table,,200.39,,Espèces,Marseille
+2025-01-11,David Pierre,Bureau,8.0,15.24,121.92,Carte de crédit,Marseille
+2025-01-21,Emma Smith,Chaise,6.0,205.73,1234.38,Espèces,Toulouse~France
+2025-01-31,Frank Ocean,Chaise,5.0,-8.84,-44.2,PayPal,Marseille
+2025-01-04,Emma Smith,Chaise,8.0,-45.69,-365.52,Espèces,"Lyon, France"
+2025-01-11,Alice Martin,,4.0,205.32,821.28,Espèces,"Paris, France"
+2025-01-15,Alice Martin,Chaise,8.0,212.95,1703.6,Carte de crédit,
+2025-01-19,Bob Dupont,,6.0,49.2,295.2,Espèces,
+2025-01-26,Henry,,4.0,,,,"Lyon, France"
+2025-01-21,Alice Martin,,6.0,177.01,1062.06,PayPal,Marseille
+2025-01-10,Charlie,Chaise,8.0,96.28,770.24,Carte de crédit,
+2025-01-07,Bob Dupont,Chaise,4.0,41.78,167.12,PayPal,
+2025-01-19,Frank Ocean,,9.0,267.67,2409.03,Espèces,"Paris, France"
+2025-01-04,Frank Ocean,Chaise,7.0,29.0,203.0,,"Bordeaux, France"
+2025-01-13,Emma Smith,,8.0,211.79,1694.32,Carte de crédit,"Lyon, France"
+2025-01-21,David Pierre,Table,2.0,38.06,76.12,Carte de crédit,"Nice, FR"
+2025-01-13,David Pierre,Chaise,1.0,294.7,294.7,,"Nice, FR"
+2025-01-02,Charlie,Table,6.0,95.18,571.08,Carte de crédit,Toulouse~France
+2025-01-14,Alice Martin,Chaise,6.0,68.96,548.91,PayPal,"Bordeaux, France"
+2025-01-20,Bob Dupont,Chaise,5.0,41.38,206.9,Carte de crédit,
+2025-01-22,Henry,,1.0,7.01,7.01,,"Paris, France"
+2025-01-18,Emma Smith,Bureau,7.0,298.94,2092.58,PayPal,Toulouse~France
+2025-01-26,George & Co.,Chaise,2.0,202.35,404.7,Espèces,Marseille
+2025-01-19,David Pierre,Bureau,5.0,203.66,1018.3,Carte de crédit,"Bordeaux, France"
+2025-01-22,Alice Martin,,9.0,155.2,1396.8,Carte de crédit,Toulouse~France
+2025-01-29,Frank Ocean,Bureau,9.0,294.17,2647.53,Espèces,"Lille, France"
+2025-01-29,David Pierre,Bureau,5.0,-23.58,-117.9,Espèces,Marseille
+2025-01-10,George & Co.,Bureau,2.0,1.63,3.26,,"Bordeaux, France"
+2025-01-17,Frank Ocean,Table,7.0,295.39,2067.73,Espèces,"Bordeaux, France"
+2025-01-11,Bob Dupont,Bureau,6.0,28.93,173.58,Espèces,"Nice, FR"
+2025-01-07,Charlie,,8.0,82.83,662.64,Espèces,"Bordeaux, France"
+2025-01-25,Bob Dupont,Table,10.0,70.62,706.2,Espèces,"Paris, France"
+2025-01-31,Frank Ocean,Bureau,9.0,,,Carte de crédit,"Paris, France"
+2025-01-25,Charlie,Chaise,4.0,7.61,30.44,,"Lyon, France"
+2025-01-02,Frank Ocean,,5.0,81.92,525.7,Espèces,Toulouse~France
+2025-01-10,Emma Smith,Bureau,1.0,286.82,286.82,,Toulouse~France
+2025-01-09,Emma Smith,Table,5.0,20.28,101.4,Carte de crédit,"Lille, France"
+2025-01-05,Henry,,8.0,40.86,195.07,,"Nice, FR"
+,George & Co.,Table,8.0,139.1,649.4,Espèces,"Lille, France"
+2025-01-24,Alice Martin,,10.0,1.67,16.7,,"Bordeaux, France"
+2025-01-06,Henry,Table,0.0,-28.51,-0.0,,Marseille
+2025-01-30,Frank Ocean,Bureau,2.0,141.71,283.42,Espèces,"Nice, FR"
+2025-01-24,David Pierre,Bureau,6.0,42.97,257.82,Carte de crédit,"Lille, France"
+2025-01-31,,Chaise,7.0,-13.94,-97.58,,"Lille, France"
+2025-01-29,David Pierre,,2.0,147.56,295.12,,Marseille
+2025-01-28,George & Co.,Bureau,,145.27,,,"Nice, FR"
+2025-01-01,Alice Martin,Chaise,,109.23,,Espèces,
+2025-01-30,Charlie,Table,9.0,221.09,1989.81,Espèces,"Bordeaux, France"
+2025-01-02,Emma Smith,Bureau,10.0,-11.17,-111.7,,"Lyon, France"
+2025-01-19,George & Co.,Bureau,2.0,38.26,76.52,,"Nice, FR"
+2025-01-29,Bob Dupont,Chaise,3.0,67.87,203.61,Carte de crédit,Marseille
+2025-01-07,Bob Dupont,Chaise,0.0,20.38,0.0,Carte de crédit,"Nice, FR"
+2025-01-30,Charlie,,1.0,60.63,60.63,Espèces,"Lille, France"
+2025-01-13,Bob Dupont,Bureau,6.0,136.83,820.98,Carte de crédit,"Lyon, France"
+2025-01-22,Charlie,,2.0,241.11,482.22,Carte de crédit,Toulouse~France
+2025-01-14,Bob Dupont,,1.0,298.88,298.88,Espèces,"Nice, FR"
+2025-01-08,Bob Dupont,Table,8.0,200.88,1607.04,Carte de crédit,"Nice, FR"
+2025-01-01,Alice Martin,Bureau,5.0,141.52,627.9,Carte de crédit,"Lyon, France"
+2025-01-04,George & Co.,Chaise,9.0,106.06,954.54,Carte de crédit,Marseille
+2025-01-24,Bob Dupont,Chaise,4.0,162.78,651.12,Espèces,"Paris, France"
+2025-01-22,Bob Dupont,Chaise,6.0,14.01,84.06,,Toulouse~France
+2025-01-30,Emma Smith,Chaise,8.0,71.53,572.24,,"Paris, France"
+2025-01-06,Frank Ocean,Chaise,2.0,194.14,388.28,,
+2025-01-16,Bob Dupont,Table,9.0,14.08,126.72,,
+2025-01-23,Emma Smith,Bureau,2.0,19.07,38.14,,"Lyon, France"
+2025-01-28,David Pierre,,4.0,182.11,728.44,Carte de crédit,"Lille, France"
+2025-01-24,Henry,Table,7.0,16.5,115.5,,"Paris, France"
+2025-01-14,David Pierre,Bureau,5.0,71.86,359.3,,"Lyon, France"
+2025-01-25,Charlie,Table,1.0,149.07,140.28,Carte de crédit,"Lyon, France"
+2025-01-13,Alice Martin,,6.0,49.79,298.74,Espèces,"Lille, France"
+2025-01-06,Alice Martin,Table,3.0,114.95,344.85,PayPal,"Lille, France"
+2025-01-24,Emma Smith,Table,3.0,125.56,376.68,Carte de crédit,Marseille
+2025-01-24,Henry,Table,2.0,121.02,242.04,PayPal,"Bordeaux, France"
+2025-01-05,Frank Ocean,,3.0,73.98,221.94,,Toulouse~France
+2025-01-15,Emma Smith,Table,0.0,187.26,0.0,,"Bordeaux, France"
+2025-01-02,Emma Smith,Chaise,1.0,291.89,291.89,Carte de crédit,Marseille
+2025-01-13,Bob Dupont,Table,6.0,173.55,893.3,Espèces,Toulouse~France
+2025-01-29,Henry,Chaise,10.0,227.86,2278.6,PayPal,"Lille, France"
+2025-01-01,Bob Dupont,Table,10.0,192.48,1924.8,Carte de crédit,"Paris, France"
+2025-01-10,David Pierre,Table,0.0,189.77,0.0,PayPal,"Paris, France"
+2025-01-08,Henry,Table,0.0,-2.13,-0.0,Espèces,"Paris, France"
+2025-01-21,Henry,Bureau,7.0,119.85,838.95,PayPal,"Lille, France"
+2025-01-11,Frank Ocean,Table,3.0,191.09,829.06,Espèces,"Lille, France"
+2025-01-22,Emma Smith,Bureau,7.0,176.4,1234.8,Carte de crédit,"Lyon, France"
+2025-01-02,Frank Ocean,Chaise,6.0,136.87,821.22,Espèces,"Lille, France"
+2025-01-24,George & Co.,,3.0,171.08,513.24,,Toulouse~France
+2025-01-04,Charlie,Bureau,1.0,162.86,162.86,Espèces,Toulouse~France
+2025-01-02,David Pierre,Table,3.0,190.46,571.38,PayPal,"Lyon, France"
+2025-01-03,Frank Ocean,Table,8.0,-15.88,-93.48,Espèces,Marseille
+2025-01-03,Henry,Bureau,5.0,19.17,95.85,Espèces,"Lyon, France"
+2025-01-05,Frank Ocean,Bureau,10.0,27.82,278.2,,
+2025-01-29,Frank Ocean,Chaise,0.0,-15.76,-0.0,Carte de crédit,"Lille, France"
+2025-01-19,Charlie,Chaise,5.0,243.2,1216.0,PayPal,Toulouse~France
+2025-01-07,Charlie,Chaise,6.0,116.35,698.1,Espèces,"Lille, France"
+2025-01-16,Henry,Bureau,7.0,47.51,347.86,Espèces,"Nice, FR"
+2025-01-05,David Pierre,Chaise,8.0,30.55,244.4,Carte de crédit,Toulouse~France
+2025-01-07,George & Co.,,1.0,22.94,22.94,Carte de crédit,"Paris, France"
+2025-01-13,Alice Martin,Chaise,3.0,154.68,464.04,,"Nice, FR"
+2025-01-20,,,3.0,228.18,684.54,Carte de crédit,Marseille
+2025-01-22,Frank Ocean,,7.0,82.72,579.04,Espèces,"Lille, France"
+2025-01-29,Charlie,Bureau,10.0,203.51,2035.1,PayPal,"Nice, FR"
+2025-01-29,,,1.0,97.54,97.54,Espèces,"Lyon, France"
+2025-01-15,David Pierre,Table,5.0,168.76,843.8,,"Paris, France"
+2025-01-28,Alice Martin,Bureau,6.0,143.43,870.94,Carte de crédit,Marseille
+2025-01-29,,Table,8.0,286.6,2292.8,,Marseille
+2025-01-09,Emma Smith,,6.0,137.44,824.64,Carte de crédit,Toulouse~France
+2025-01-15,George & Co.,Table,9.0,285.08,2565.72,Espèces,"Bordeaux, France"
+2025-01-08,Alice Martin,Chaise,3.0,-25.99,-77.97,Espèces,
+2025-01-12,,Chaise,7.0,197.47,1382.29,Carte de crédit,"Paris, France"
+2025-01-15,George & Co.,Bureau,8.0,261.84,2094.72,,"Nice, FR"
+2025-01-01,Bob Dupont,Chaise,6.0,225.79,1354.74,PayPal,Toulouse~France
+2025-01-28,Charlie,Bureau,2.0,-21.15,-42.3,Carte de crédit,"Lille, France"
+2025-01-05,David Pierre,Table,7.0,3.92,27.44,Carte de crédit,Marseille
+2025-01-29,Henry,Bureau,8.0,266.65,2133.2,Carte de crédit,"Lyon, France"
+2025-01-29,Emma Smith,Chaise,7.0,43.17,302.19,Espèces,"Lyon, France"
+2025-01-26,Henry,Chaise,5.0,191.52,957.6,,Marseille
+2025-01-29,Charlie,Chaise,6.0,174.6,1047.6,,"Lille, France"
+2025-01-13,George & Co.,,8.0,126.27,1010.16,,"Bordeaux, France"
+2025-01-27,George & Co.,Chaise,8.0,153.76,1688.55,PayPal,"Lyon, France"
+2025-01-28,Charlie,,,-35.9,,Espèces,"Nice, FR"
+2025-01-02,Emma Smith,Bureau,10.0,-23.82,-355.79,Carte de crédit,"Lille, France"
+2025-01-16,,,2.0,37.45,74.9,PayPal,Marseille
+2025-01-29,Alice Martin,,,175.08,,Carte de crédit,"Paris, France"
+2025-01-21,George & Co.,Chaise,7.0,230.41,1612.87,Carte de crédit,"Lyon, France"
+2025-01-06,George & Co.,Chaise,7.0,213.67,1495.69,Espèces,Marseille
+2025-01-26,Bob Dupont,Bureau,3.0,144.65,433.95,,"Nice, FR"
+2025-01-01,Alice Martin,Table,1.0,39.57,39.57,PayPal,"Lille, France"
+2025-01-31,Bob Dupont,,,129.45,,Carte de crédit,"Lyon, France"
+2025-01-02,Henry,Bureau,3.0,23.2,69.6,Espèces,"Lille, France"
+2025-01-06,Henry,Bureau,9.0,86.03,774.27,Espèces,"Lille, France"
+2025-01-20,Emma Smith,Table,0.0,13.49,0.0,Espèces,"Bordeaux, France"
+2025-01-09,George & Co.,,5.0,231.31,1156.55,PayPal,Toulouse~France
+2025-01-20,,Chaise,6.0,10.41,62.46,Carte de crédit,
+2025-01-26,Emma Smith,Chaise,5.0,135.96,679.8,,"Nice, FR"
+,George & Co.,Chaise,5.0,169.33,846.65,Espèces,
+2025-01-03,Frank Ocean,Chaise,6.0,-45.86,-275.16,PayPal,"Nice, FR"
+2025-01-26,Charlie,Table,7.0,170.78,1195.46,PayPal,Toulouse~France
+2025-01-04,Charlie,Table,3.0,161.98,485.94,PayPal,Marseille
+2025-01-07,Alice Martin,Bureau,10.0,234.94,2349.4,,"Paris, France"
+2025-01-24,,Table,5.0,-38.75,-193.75,,"Paris, France"
+2025-01-11,Alice Martin,Bureau,8.0,-47.47,-379.76,Carte de crédit,
+2025-01-24,Emma Smith,Chaise,8.0,69.27,554.16,Carte de crédit,"Bordeaux, France"
+2025-01-14,Henry,Bureau,6.0,-16.19,-97.14,PayPal,"Paris, France"
+2025-01-13,George & Co.,Table,6.0,113.77,682.62,Espèces,"Lille, France"
+2025-01-23,,Chaise,5.0,113.77,568.85,,
+2025-01-21,Bob Dupont,Bureau,0.0,119.34,0.0,Carte de crédit,Toulouse~France
+2025-01-28,,Table,9.0,-22.67,-204.03,,Toulouse~France
+2025-01-29,Emma Smith,Table,7.0,270.23,1891.61,,"Nice, FR"
+2025-01-16,Frank Ocean,Bureau,2.0,-30.55,-61.1,Espèces,"Lille, France"
+2025-01-02,George & Co.,Chaise,4.0,-38.84,-155.36,Espèces,"Lyon, France"
+2025-01-22,Emma Smith,Bureau,10.0,42.49,424.9,Carte de crédit,"Lyon, France"
+2025-01-30,Charlie,,9.0,139.42,1254.78,Espèces,"Nice, FR"
+2025-01-05,Charlie,Chaise,9.0,86.78,781.02,Espèces,Toulouse~France
+2025-01-26,George & Co.,Table,5.0,96.08,480.4,Espèces,
+2025-01-11,Charlie,,8.0,178.91,1431.28,PayPal,"Paris, France"
+2025-01-28,Emma Smith,,7.0,-47.44,-197.57,Carte de crédit,
+2025-01-12,Henry,Bureau,6.0,145.9,875.4,Espèces,"Bordeaux, France"
+2025-01-24,George & Co.,Chaise,8.0,-4.67,-37.36,Carte de crédit,
+2025-01-30,,,6.0,274.49,1646.94,Espèces,
+2025-01-17,Alice Martin,Bureau,7.0,54.59,382.13,Espèces,
+2025-01-04,Henry,Chaise,2.0,152.65,305.3,Espèces,"Nice, FR"
+2025-01-06,Henry,,3.0,244.49,733.47,Espèces,"Lyon, France"
+2025-01-12,Emma Smith,Table,6.0,220.62,1295.37,,"Lille, France"
+2025-01-21,Bob Dupont,Chaise,9.0,64.19,577.71,Espèces,"Nice, FR"
+2025-01-08,David Pierre,Table,5.0,,,Espèces,Toulouse~France
+2025-01-26,,,7.0,23.27,162.89,Carte de crédit,"Paris, France"
+2025-01-04,Alice Martin,Chaise,2.0,106.94,213.88,,"Lille, France"
+2025-01-25,Alice Martin,Table,3.0,35.9,107.7,Carte de crédit,Marseille
+2025-01-23,David Pierre,,5.0,156.53,782.65,Carte de crédit,Toulouse~France
+2025-01-02,Frank Ocean,Bureau,4.0,186.46,745.84,Espèces,"Lille, France"
+2025-01-07,Bob Dupont,Table,7.0,264.12,1848.84,,"Lille, France"
+2025-01-11,,Chaise,2.0,66.54,191.86,Espèces,Marseille
+2025-01-09,David Pierre,Chaise,8.0,262.41,2099.28,PayPal,"Nice, FR"
+2025-01-07,Bob Dupont,Bureau,10.0,62.36,623.6,PayPal,"Nice, FR"
+2025-01-10,David Pierre,Bureau,3.0,27.34,82.02,PayPal,"Lyon, France"
+2025-01-04,Emma Smith,Chaise,9.0,248.0,2232.0,PayPal,"Lille, France"
+2025-01-15,Charlie,Table,6.0,114.6,687.6,Carte de crédit,"Nice, FR"
+2025-01-06,Charlie,Bureau,0.0,-44.91,-0.0,Espèces,"Lyon, France"
+2025-01-01,Alice Martin,Chaise,2.0,240.68,481.36,,"Bordeaux, France"
+2025-01-17,Emma Smith,Bureau,7.0,-46.18,-323.26,Carte de crédit,"Bordeaux, France"
+2025-01-05,,Bureau,4.0,258.19,1032.76,PayPal,"Lyon, France"
+2025-01-31,,,8.0,23.28,186.24,Carte de crédit,"Bordeaux, France"
+2025-01-10,Charlie,Chaise,0.0,147.16,0.0,,"Lyon, France"
+2025-01-14,Charlie,Chaise,0.0,275.09,0.0,Espèces,"Lille, France"
+2025-01-17,,Bureau,7.0,-11.28,-78.96,PayPal,"Nice, FR"
+2025-01-14,Henry,,4.0,214.57,858.28,Carte de crédit,"Paris, France"
+2025-01-17,Alice Martin,Table,2.0,149.41,298.82,,
+2025-01-27,David Pierre,Chaise,3.0,118.42,355.26,PayPal,Toulouse~France
+2025-01-19,Henry,Table,10.0,43.47,434.7,Carte de crédit,"Lille, France"
+2025-01-13,Charlie,Table,9.0,21.77,195.93,,"Bordeaux, France"
+2025-01-18,Frank Ocean,Chaise,2.0,245.62,491.24,,"Bordeaux, France"
+2025-01-18,David Pierre,Chaise,10.0,120.13,1201.3,Carte de crédit,Toulouse~France
+2025-01-29,Charlie,,2.0,-26.96,-53.92,Espèces,"Nice, FR"
+2025-01-08,,,5.0,281.36,1406.8,Espèces,"Paris, France"
+2025-01-06,,Chaise,0.0,124.64,0.0,Espèces,
+2025-01-22,,Table,6.0,112.2,673.2,Espèces,"Paris, France"
+2025-01-20,Emma Smith,Table,10.0,90.72,907.2,Carte de crédit,Toulouse~France
+2025-01-17,Henry,,9.0,292.94,3259.36,,"Lyon, France"
+2025-01-21,,,6.0,138.77,857.85,Espèces,"Lille, France"
+2025-01-19,Bob Dupont,,5.0,-21.86,-109.3,,Marseille
+2025-01-16,Alice Martin,Chaise,0.0,287.02,0.0,Espèces,"Bordeaux, France"
+2025-01-07,George & Co.,Bureau,1.0,-33.89,-33.89,PayPal,"Lille, France"
+2025-01-28,Henry,Table,6.0,132.21,793.26,Espèces,
+2025-01-07,Henry,Bureau,9.0,27.32,245.88,,"Nice, FR"
+2025-01-26,David Pierre,Bureau,9.0,271.66,2444.94,,"Bordeaux, France"
+2025-01-08,Frank Ocean,Chaise,0.0,65.71,0.0,Espèces,"Bordeaux, France"
+2025-01-22,Charlie,Table,8.0,-38.08,-304.64,,"Nice, FR"
+2025-01-16,Charlie,Bureau,8.0,69.14,553.12,PayPal,"Lille, France"
+2025-01-21,,,3.0,230.0,690.0,Espèces,"Nice, FR"
+2025-01-31,George & Co.,,6.0,225.77,1451.76,Carte de crédit,"Lille, France"
+2025-01-27,Frank Ocean,Table,6.0,7.6,45.6,Espèces,"Nice, FR"
+2025-01-14,David Pierre,,4.0,262.73,1050.92,Carte de crédit,Toulouse~France
+2025-01-05,Henry,Bureau,4.0,66.59,266.36,,"Bordeaux, France"
+2025-01-10,Frank Ocean,Table,2.0,6.79,13.58,,"Paris, France"
+2025-01-07,Emma Smith,Bureau,1.0,185.73,185.73,Espèces,"Bordeaux, France"
+2025-01-28,Bob Dupont,Table,8.0,209.79,1678.32,,"Paris, France"
+2025-01-17,David Pierre,Chaise,3.0,211.01,633.03,,"Lille, France"
+2025-01-17,Frank Ocean,Bureau,4.0,156.54,626.16,Carte de crédit,Toulouse~France
+2025-01-18,David Pierre,Table,1.0,69.8,69.8,,"Paris, France"
+2025-01-17,Bob Dupont,Table,1.0,97.08,97.08,Espèces,"Lyon, France"
+2025-01-18,George & Co.,Bureau,7.0,10.76,75.32,Espèces,Marseille
+2025-01-16,George & Co.,Chaise,5.0,-28.39,-141.95,PayPal,Marseille
+2025-01-12,,Table,10.0,220.8,2061.23,Espèces,
+2025-01-05,Charlie,Chaise,0.0,249.72,0.0,PayPal,"Nice, FR"
+2025-01-12,Alice Martin,Chaise,9.0,203.11,1827.99,Carte de crédit,"Bordeaux, France"
+2025-01-24,Frank Ocean,Table,9.0,14.05,126.45,Carte de crédit,"Paris, France"
+2025-01-01,Bob Dupont,,9.0,257.74,2319.66,,
+2025-01-07,Emma Smith,Bureau,6.0,225.81,1354.86,PayPal,
+2025-01-23,David Pierre,Chaise,2.0,-35.17,-70.34,Carte de crédit,"Bordeaux, France"
+2025-01-18,George & Co.,Bureau,6.0,30.21,181.26,,Toulouse~France
+2025-01-31,,,0.0,162.12,0.0,,
+2025-01-10,Bob Dupont,Bureau,6.0,224.06,1344.36,,
+2025-01-26,,Chaise,2.0,-14.17,-17.56,PayPal,"Paris, France"
+2025-01-03,Charlie,Chaise,4.0,164.28,657.12,Carte de crédit,
+2025-01-19,George & Co.,Bureau,10.0,41.64,416.4,Espèces,"Lille, France"
+2025-01-07,Alice Martin,Bureau,4.0,83.87,335.48,Carte de crédit,Marseille
+2025-01-13,George & Co.,Table,2.0,1.03,2.06,Carte de crédit,Toulouse~France
+2025-01-25,George & Co.,,,105.06,,Espèces,"Bordeaux, France"
+2025-01-28,Frank Ocean,Chaise,5.0,190.17,950.85,Carte de crédit,Toulouse~France
+2025-01-17,Frank Ocean,,1.0,183.73,183.73,,"Lille, France"
+2025-01-19,Frank Ocean,Chaise,1.0,25.63,25.63,PayPal,"Nice, FR"
+2025-01-14,Alice Martin,Chaise,9.0,,,Espèces,"Lyon, France"
+2025-01-30,Bob Dupont,Chaise,7.0,239.58,2081.48,Espèces,
+2025-01-15,Charlie,Chaise,8.0,276.88,2215.04,,Marseille
+2025-01-06,Henry,Table,8.0,269.75,2158.0,Espèces,"Lyon, France"
+2025-01-18,David Pierre,Table,5.0,14.86,74.3,PayPal,"Paris, France"
+2025-01-04,Henry,Table,4.0,7.72,30.88,,Toulouse~France
+2025-01-15,George & Co.,Table,9.0,132.95,1196.55,PayPal,"Nice, FR"
+2025-01-29,David Pierre,,3.0,174.22,522.66,,"Nice, FR"
+2025-01-24,Emma Smith,Bureau,1.0,-22.45,-22.45,Carte de crédit,"Paris, France"
+2025-01-15,George & Co.,Table,10.0,-3.07,-30.7,Carte de crédit,"Bordeaux, France"
+2025-01-13,,Chaise,6.0,172.97,1037.82,PayPal,"Nice, FR"
+2025-01-22,Emma Smith,Chaise,9.0,274.66,2471.94,,"Bordeaux, France"
+2025-01-10,Charlie,Table,0.0,58.51,0.0,Espèces,"Lyon, France"
+2025-01-07,Alice Martin,Chaise,10.0,196.64,1966.4,Espèces,"Nice, FR"
+2025-01-27,Frank Ocean,Table,6.0,280.97,1566.24,,"Paris, France"
+2025-01-28,,Bureau,2.0,7.85,15.7,,Toulouse~France
+2025-01-07,Bob Dupont,,9.0,230.55,2074.95,Espèces,"Lyon, France"
+2025-01-31,Charlie,Chaise,2.0,53.27,106.54,,Toulouse~France
+2025-01-04,Frank Ocean,Bureau,1.0,-47.94,-47.94,,"Nice, FR"
+2025-01-10,Emma Smith,,5.0,134.67,673.35,Espèces,"Paris, France"
+2025-01-19,Alice Martin,,2.0,169.12,338.24,,Marseille
+2025-01-29,Bob Dupont,Chaise,3.0,,,,"Lille, France"
+2025-01-09,,,0.0,254.34,0.0,Carte de crédit,Toulouse~France
+2025-01-20,Emma Smith,Table,7.0,171.19,1198.33,PayPal,"Lyon, France"
+2025-01-01,Charlie,,0.0,224.9,0.0,,"Lyon, France"
+2025-01-05,Henry,,3.0,-37.84,-113.52,PayPal,Toulouse~France
+2025-01-02,Alice Martin,Table,5.0,-6.69,-33.45,Carte de crédit,"Lyon, France"
+2025-01-24,George & Co.,Chaise,9.0,234.14,2107.26,Espèces,"Paris, France"
+2025-01-25,David Pierre,Table,5.0,239.94,1199.7,,"Bordeaux, France"
+2025-01-14,David Pierre,Bureau,5.0,232.26,1161.3,Espèces,"Lyon, France"
+2025-01-02,David Pierre,Table,6.0,294.63,1767.78,Espèces,"Nice, FR"
+2025-01-27,Bob Dupont,Bureau,5.0,61.12,305.6,PayPal,"Paris, France"
+2025-01-23,George & Co.,Bureau,10.0,-47.76,-477.6,,Marseille
+2025-01-02,Bob Dupont,Bureau,5.0,196.52,982.6,Espèces,Marseille
+2025-01-19,Bob Dupont,Chaise,8.0,153.72,1229.76,Carte de crédit,Marseille
+,David Pierre,,8.0,-21.47,-171.76,Carte de crédit,
+2025-01-09,George & Co.,,9.0,-4.84,-43.56,PayPal,
+2025-01-28,Charlie,Table,0.0,91.54,0.0,Carte de crédit,Marseille
+2025-01-07,Bob Dupont,Table,3.0,-15.58,-46.74,,"Lille, France"
+2025-01-02,Bob Dupont,Bureau,0.0,278.95,0.0,Carte de crédit,Toulouse~France
+2025-01-26,Bob Dupont,,9.0,-11.08,-99.72,PayPal,"Nice, FR"
+2025-01-27,Frank Ocean,Bureau,8.0,269.72,2157.76,Carte de crédit,"Bordeaux, France"
+2025-01-04,,Table,2.0,-1.07,-2.14,PayPal,"Paris, France"
+2025-01-15,Alice Martin,Chaise,7.0,290.34,2032.38,Espèces,Marseille
+2025-01-05,Emma Smith,Chaise,1.0,8.54,10.54,PayPal,
+2025-01-05,David Pierre,Table,6.0,193.5,1161.0,Espèces,
+2025-01-21,Alice Martin,,9.0,272.03,2448.27,PayPal,Marseille
+2025-01-06,Frank Ocean,Table,8.0,128.64,1029.12,Carte de crédit,"Paris, France"
+2025-01-02,Henry,Table,7.0,120.4,842.8,Espèces,"Lille, France"
+2025-01-20,Henry,Chaise,4.0,-14.93,-59.72,Espèces,"Nice, FR"
+2025-01-01,Frank Ocean,Table,,268.65,,Espèces,Toulouse~France
+2025-01-17,,Bureau,2.0,158.09,316.18,,Toulouse~France
+2025-01-16,Henry,Chaise,0.0,-0.39,-0.0,Carte de crédit,"Lyon, France"
+2025-01-14,David Pierre,,0.0,140.79,0.0,PayPal,Toulouse~France
+2025-01-24,Frank Ocean,Bureau,1.0,-10.55,-10.55,Espèces,"Nice, FR"
+2025-01-18,,Table,7.0,-26.95,-188.65,,"Paris, France"
+2025-01-30,George & Co.,Chaise,6.0,-20.18,-121.08,,Toulouse~France
+2025-01-13,Emma Smith,Chaise,10.0,6.43,64.3,,"Bordeaux, France"
+2025-01-20,Charlie,Bureau,10.0,-4.79,-47.9,Carte de crédit,"Paris, France"
+2025-01-27,Henry,,5.0,93.74,468.7,Espèces,"Lyon, France"
+2025-01-23,Charlie,Bureau,8.0,238.0,1904.0,Espèces,Toulouse~France
+2025-01-02,Emma Smith,Table,0.0,-4.54,-0.0,Espèces,
+2025-01-09,Bob Dupont,Table,10.0,110.47,1104.7,Carte de crédit,"Nice, FR"
+2025-01-07,Alice Martin,Chaise,0.0,,,Espèces,"Nice, FR"
+2025-01-03,Alice Martin,Table,2.0,-38.49,-76.98,PayPal,Toulouse~France
+2025-01-30,Alice Martin,Table,1.0,204.91,204.91,PayPal,Marseille
+2025-01-09,George & Co.,Chaise,3.0,115.54,346.62,Carte de crédit,"Bordeaux, France"
+2025-01-14,Henry,,2.0,258.12,343.29,Carte de crédit,"Paris, France"
+2025-01-18,Emma Smith,,4.0,126.85,507.4,PayPal,Marseille
+2025-01-06,George & Co.,Chaise,5.0,111.95,559.75,,"Nice, FR"
+2025-01-06,,Chaise,2.0,-36.54,-73.08,,"Lyon, France"
+2025-01-11,Charlie,Chaise,8.0,119.05,952.4,PayPal,Marseille
+2025-01-20,Bob Dupont,Bureau,7.0,265.86,1861.02,,"Nice, FR"
+2025-01-06,Bob Dupont,Chaise,6.0,192.68,1156.08,Carte de crédit,"Nice, FR"
+2025-01-07,David Pierre,,8.0,21.53,172.24,Carte de crédit,
+2025-01-30,Frank Ocean,Bureau,5.0,200.83,1004.15,Espèces,"Bordeaux, France"
+2025-01-26,David Pierre,Chaise,7.0,108.95,762.65,Espèces,"Nice, FR"
+2025-01-03,Charlie,Bureau,0.0,216.14,0.0,Carte de crédit,Marseille
+2025-01-18,Bob Dupont,Bureau,6.0,-36.7,-220.2,Carte de crédit,Toulouse~France
+2025-01-26,,Bureau,0.0,159.55,0.0,PayPal,"Bordeaux, France"
+2025-01-08,Alice Martin,Chaise,5.0,142.58,712.9,,"Nice, FR"
+2025-01-16,Charlie,,6.0,114.38,686.28,,
